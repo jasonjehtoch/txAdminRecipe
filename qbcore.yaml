@@ -127,7 +127,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-core
     ref: main
-    src: https://github.com/qbcore-framework/qb-core
+    src: https://github.com/venray-v2/qb-core
 
   - action: download_github
     dest: ./resources/[qb]/qb-scoreboard
@@ -142,7 +142,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-multicharacter
     ref: main
-    src: https://github.com/qbcore-framework/qb-multicharacter
+    src: https://github.com/venray-v2/qb-multicharacter
     
   - action: download_github
     dest: ./resources/[qb]/qb-target
@@ -165,7 +165,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-vehicleshop
     ref: main
-    src: https://github.com/qbcore-framework/qb-vehicleshop
+    src: https://github.com/venray-v2/qb-vehicleshop
 
   - action: download_github
     dest: ./resources/[qb]/qb-houserobbery
@@ -205,7 +205,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-inventory
     ref: main
-    src: https://github.com/qbcore-framework/qb-inventory
+    src: https://github.com/venray-v2/qb-inventory
 
   - action: download_github
     dest: ./resources/[qb]/qb-houses
@@ -220,7 +220,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-ambulancejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-ambulancejob
+    src: https://github.com/venray-v2/qb-ambulancejob
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclefailure
@@ -233,7 +233,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-radialmenu
     ref: main
-    src: https://github.com/qbcore-framework/qb-radialmenu
+    src: https://github.com/venray-v2/qb-radialmenu
 
   - action: download_github
     dest: ./resources/[qb]/qb-crypto
@@ -248,7 +248,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-policejob
     ref: main
-    src: https://github.com/qbcore-framework/qb-policejob
+    src: https://github.com/venray-v2/qb-policejob
 
   - action: download_github
     dest: ./resources/[qb]/qb-traphouse
@@ -258,7 +258,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-apartments
     ref: main
-    src: https://github.com/qbcore-framework/qb-apartments
+    src: https://github.com/venray-v2/qb-apartments
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclekeys
@@ -268,12 +268,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-mechanicjob
     ref: main
-    src: https://github.com/qbcore-framework/qb-mechanicjob
+    src: https://github.com/venray-v2/qb-mechanicjob
 
   - action: download_github
     dest: ./resources/[qb]/qb-phone
     ref: main
-    src: https://github.com/qbcore-framework/qb-phone
+    src: https://github.com/venray-v2/qb-phone
 
   - action: download_github
     dest: ./resources/[qb]/qb-vineyard
@@ -308,12 +308,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-storerobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-storerobbery
+    src: https://github.com/venray-v2/qb-storerobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-spawn
     ref: main
-    src: https://github.com/qbcore-framework/qb-spawn
+    src: https://github.com/venray-v2/qb-spawn
 
   - action: download_github
     dest: ./resources/[qb]/qb-skillbar
@@ -323,7 +323,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-smallresources
     ref: main
-    src: https://github.com/qbcore-framework/qb-smallresources
+    src: https://github.com/venray-v2/qb-smallresources
 
   - action: download_github
     dest: ./resources/[qb]/qb-recyclejob
@@ -353,7 +353,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-taxijob
     ref: main
-    src: https://github.com/qbcore-framework/qb-taxijob
+    src: https://github.com/venray-v2/qb-taxijob
     
   - action: download_github
     dest: ./resources/[qb]/qb-busjob
@@ -416,7 +416,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-doorlock
     ref: main
-    src: https://github.com/qbcore-framework/qb-doorlock
+    src: https://github.com/venray-v2/qb-doorlock
 
   - action: download_github
     dest: ./resources/[qb]/qb-garbagejob
@@ -426,12 +426,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-drugs
     ref: main
-    src: https://github.com/qbcore-framework/qb-drugs
+    src: https://github.com/venray-v2/qb-drugs
 
   - action: download_github
     dest: ./resources/[qb]/qb-shops
     ref: main
-    src: https://github.com/qbcore-framework/qb-shops
+    src: https://github.com/venray-v2/qb-shops
 
   - action: download_github
     dest: ./resources/[qb]/qb-lockpick
